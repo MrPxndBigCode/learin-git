@@ -1,1 +1,1 @@
-console.log("this is new feature ")
+console.log("this is new feature and fix this to add-1")
