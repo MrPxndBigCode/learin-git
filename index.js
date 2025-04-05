@@ -1,1 +1,1 @@
-console.log("this is new feature and fix this to add-1 and add-2")
+console.log("this is new feature and fix this to add-1 and add-2 bas kimuji.com")
